@@ -1,6 +1,8 @@
 # Airbnb Clone
 
-A clone for the Airbnb website, built with Next.js, tailwindcss, and MongoDB.
+A full stack clone for the Airbnb website, built with Next.js, tailwindCSS, and MongoDB.
+
+
 
 ## Getting Started
 
